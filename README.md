@@ -17,4 +17,3 @@ This project is an IT ticket management system built using PHP and MySQL.
 1. Install XAMPP
 2. Import the SQL file into phpMyAdmin
 3. Put the project folder inside htdocs
-4. Open http://localhost/project-name
